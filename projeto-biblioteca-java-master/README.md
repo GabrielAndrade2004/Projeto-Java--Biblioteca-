@@ -6,7 +6,7 @@ Software para controle de biblioteca em java, simples. O sistema contém somente
 
 Passo 1: Conectar o banco de dados.
 
-Passo 2: Abrir o arquivo executável (.jar) na pastar (dist).
+Passo 2: Abrir o arquivo executável (Biblioteca.jar) na pastar (dist).
 
 Passo 3: Usufruir do projeto...
 
